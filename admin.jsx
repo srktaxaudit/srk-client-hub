@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 const SB = import.meta.env.VITE_SUPABASE_URL;
 const AK = import.meta.env.VITE_SUPABASE_ANON_KEY;
-const ADMIN_PASS = import.meta.env.VITE_ADMIN_PASSWORD || "srk2024admin";
+const ADMIN_PASS = import.meta.env.VITE_ADMIN_PASSWORD || "SRK@admin2026";
 const N8N_WEBHOOK = import.meta.env.VITE_N8N_WEBHOOK_URL || "";
 const N = "#1F3864";
 const O = "#E87722";
